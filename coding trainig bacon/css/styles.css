@@ -1,7 +1,23 @@
+/*******************tag selectors******************/
 h1 {
   color: red;
-  font-size: 50px;
+  font-size: 100px;
 }
+/*
 img{
 background-color: red;
+}
+*/
+
+/********************class selectors***************/
+
+
+.bacon {
+  background-color: green;
+
+}
+
+.broccoli {
+  background-color: red;
+
 }
